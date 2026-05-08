@@ -1,0 +1,20 @@
+-- [pd]
+return {
+    ["armor"] = { label = "Armure" },
+    ["breathalyzer"] = { label = "Breathalyzer" },
+    ["dnatestkit"] = { label = "Dnatestkit" },
+    ["document"] = { label = "Document" },
+    ["drone"] = { label = "Drone" },
+    ["drugtestkit"] = { label = "Drugtestkit" },
+    ["emptydocuments"] = { label = "Emptydocuments" },
+    ["evidence"] = { label = "Evidence" },
+    ["fingerprintreader"] = { label = "Fingerprintreader" },
+    ["gopro"] = { label = "Gopro" },
+    ["goprotablet"] = { label = "Goprotablet" },
+    ["gsrtestkit"] = { label = "Gsrtestkit" },
+    ["handcuffs"] = { label = "Handcuffs" },
+    ["megaphone"] = { label = "Megaphone" },
+    ["police_stormram"] = { label = "Police Stormram" },
+    ["ticket"] = { label = "Ticket" },
+    ["ticketbook"] = { label = "Ticketbook" },
+}
